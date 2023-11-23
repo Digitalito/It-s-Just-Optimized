@@ -12,7 +12,6 @@
 *This may vary depending on the situation and components.*
 
 ## ✨How to download and install?
-
 ### [🌟Modrinth app (recommended)](https://modrinth.com/app)
 To download the modpack you have to go to the launcher's search engine and search for *It's Just Optimized*, select it and press the download button. Then you just wait for it to download and start playing.
 ### [⭐Prism Launcher](https://prismlauncher.org/)
