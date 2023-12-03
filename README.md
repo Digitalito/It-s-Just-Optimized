@@ -19,3 +19,6 @@ To download the modpack you have to click on the add instance button and then se
 
 ## 🔍Download in Vanilla or Other
 First you must download [Fabric](https://fabricmc.net/) then you start the game to download the assets. In our github repository you can find our latest versions of the modpack in Releases, you download it and then place it in the folder .minecraft which you can find by opening the Run app (Windows Key + R) and placing %appdata%, verifying that you are in the AppData\Roaming folder and looking for the .minecraft folder and copying all the files from the zip to the folder, and ready, just enjoy!
+
+## Links
+[CurseForge](https://legacy.curseforge.com/minecraft/modpacks/its-just-optimized/) I [Discord](https://discord.com/invite/Mk5ueknQnA) I [GitHub](https://github.com/Gamedroid017/It-s-Just-Optimized/) I [Modrinth](https://modrinth.com/modpack/its-just-optimized)
